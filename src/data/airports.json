@@ -1,0 +1,80 @@
+[
+  {
+    "name": "John F. Kennedy International Airport",
+    "code": "JFK",
+    "city": "New York",
+    "country": "United States",
+    "type": "International",
+    "terminals": 6,
+    "runways": 4,
+    "elevation": "13 ft / 4 m",
+    "timezone": "EST (UTC-5)",
+    "latitude": 40.6413,
+    "longitude": -73.7781
+  },
+  {
+    "name": "Los Angeles International Airport",
+    "code": "LAX",
+    "city": "Los Angeles",
+    "country": "United States",
+    "type": "International",
+    "terminals": 9,
+    "runways": 4,
+    "elevation": "128 ft / 39 m",
+    "timezone": "PST (UTC-8)",
+    "latitude": 33.9416,
+    "longitude": -118.4085
+  },
+  {
+    "name": "Heathrow Airport",
+    "code": "LHR",
+    "city": "London",
+    "country": "United Kingdom",
+    "type": "International",
+    "terminals": 5,
+    "runways": 2,
+    "elevation": "83 ft / 25 m",
+    "timezone": "GMT (UTC+0)",
+    "latitude": 51.4700,
+    "longitude": -0.4543
+  },
+  {
+    "name": "Sydney Kingsford Smith Airport",
+    "code": "SYD",
+    "city": "Sydney",
+    "country": "Australia",
+    "type": "International",
+    "terminals": 3,
+    "runways": 3,
+    "elevation": "21 ft / 6 m",
+    "timezone": "AEST (UTC+10)",
+    "latitude": -33.9461,
+    "longitude": 151.1772
+  },
+  {
+    "name": "Chicago Midway International Airport",
+    "code": "MDW",
+    "city": "Chicago",
+    "country": "United States",
+    "type": "Domestic",
+    "terminals": 1,
+    "runways": 3,
+    "elevation": "620 ft / 189 m",
+    "timezone": "CST (UTC-6)",
+    "latitude": 41.7868,
+    "longitude": -87.7522
+  },
+  {
+    "name": "Dallas Love Field",
+    "code": "DAL",
+    "city": "Dallas",
+    "country": "United States",
+    "type": "Regional",
+    "terminals": 1,
+    "runways": 2,
+    "elevation": "487 ft / 148 m",
+    "timezone": "CST (UTC-6)",
+    "latitude": 32.8471,
+    "longitude": -96.8518
+  }
+]
