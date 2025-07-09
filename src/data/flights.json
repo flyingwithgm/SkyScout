@@ -1,0 +1,104 @@
+[
+  {
+    "flightNumber": "AA123",
+    "airline": "American Airlines",
+    "departure": {
+      "airport": "JFK",
+      "time": "08:45",
+      "city": "New York"
+    },
+    "arrival": {
+      "airport": "LAX",
+      "time": "11:30",
+      "city": "Los Angeles"
+    },
+    "duration": "5h 45m",
+    "status": "On Time",
+    "gate": "B12"
+  },
+  {
+    "flightNumber": "DL456",
+    "airline": "Delta Airlines",
+    "departure": {
+      "airport": "ATL",
+      "time": "10:15",
+      "city": "Atlanta"
+    },
+    "arrival": {
+      "airport": "ORD",
+      "time": "11:45",
+      "city": "Chicago"
+    },
+    "duration": "2h 30m",
+    "status": "Delayed",
+    "gate": "A5"
+  },
+  {
+    "flightNumber": "UA789",
+    "airline": "United Airlines",
+    "departure": {
+      "airport": "SFO",
+      "time": "13:20",
+      "city": "San Francisco"
+    },
+    "arrival": {
+      "airport": "DEN",
+      "time": "16:35",
+      "city": "Denver"
+    },
+    "duration": "2h 15m",
+    "status": "On Time",
+    "gate": "C8"
+  },
+  {
+    "flightNumber": "BA321",
+    "airline": "British Airways",
+    "departure": {
+      "airport": "LHR",
+      "time": "18:00",
+      "city": "London"
+    },
+    "arrival": {
+      "airport": "JFK",
+      "time": "21:15",
+      "city": "New York"
+    },
+    "duration": "7h 15m",
+    "status": "On Time",
+    "gate": "D3"
+  },
+  {
+    "flightNumber": "EK654",
+    "airline": "Emirates",
+    "departure": {
+      "airport": "DXB",
+      "time": "22:30",
+      "city": "Dubai"
+    },
+    "arrival": {
+      "airport": "SYD",
+      "time": "17:45",
+      "city": "Sydney"
+    },
+    "duration": "13h 15m",
+    "status": "Cancelled",
+    "gate": "E7"
+  },
+  {
+    "flightNumber": "QF987",
+    "airline": "Qantas",
+    "departure": {
+      "airport": "MEL",
+      "time": "09:15",
+      "city": "Melbourne"
+    },
+    "arrival": {
+      "airport": "BNE",
+      "time": "10:45",
+      "city": "Brisbane"
+    },
+    "duration": "1h 30m",
+    "status": "On Time",
+    "gate": "F2"
+  }
+]
