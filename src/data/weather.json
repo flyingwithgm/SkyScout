@@ -1,0 +1,119 @@
+[
+  {
+    "airportCode": "JFK",
+    "airportName": "John F. Kennedy International Airport",
+    "city": "New York",
+    "country": "United States",
+    "temperature": 22,
+    "condition": "Partly Cloudy",
+    "humidity": 65,
+    "windSpeed": 15,
+    "windDirection": "NE",
+    "visibility": 10,
+    "pressure": 1012,
+    "forecast": [
+      {
+        "day": "Today",
+        "high": 24,
+        "low": 18,
+        "condition": "Partly Cloudy"
+      },
+      {
+        "day": "Tomorrow",
+        "high": 26,
+        "low": 20,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Wed",
+        "high": 23,
+        "low": 19,
+        "condition": "Rain"
+      },
+      {
+        "day": "Thu",
+        "high": 21,
+        "low": 17,
+        "condition": "Cloudy"
+      }
+    ]
+  },
+  {
+    "airportCode": "LAX",
+    "airportName": "Los Angeles International Airport",
+    "city": "Los Angeles",
+    "country": "United States",
+    "temperature": 28,
+    "condition": "Sunny",
+    "humidity": 40,
+    "windSpeed": 8,
+    "windDirection": "W",
+    "visibility": 16,
+    "pressure": 1015,
+    "forecast": [
+      {
+        "day": "Today",
+        "high": 30,
+        "low": 22,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Tomorrow",
+        "high": 31,
+        "low": 23,
+        "condition": "Sunny"
+      },
+      {
+        "day": "Wed",
+        "high": 29,
+        "low": 22,
+        "condition": "Partly Cloudy"
+      },
+      {
+        "day": "Thu",
+        "high": 28,
+        "low": 21,
+        "condition": "Sunny"
+      }
+    ]
+  },
+  {
+    "airportCode": "LHR",
+    "airportName": "Heathrow Airport",
+    "city": "London",
+    "country": "United Kingdom",
+    "temperature": 18,
+    "condition": "Cloudy",
+    "humidity": 75,
+    "windSpeed": 12,
+    "windDirection": "SW",
+    "visibility": 8,
+    "pressure": 1010,
+    "forecast": [
+      {
+        "day": "Today",
+        "high": 19,
+        "low": 15,
+        "condition": "Cloudy"
+      },
+      {
+        "day": "Tomorrow",
+        "high": 20,
+        "low": 16,
+        "condition": "Rain"
+      },
+      {
+        "day": "Wed",
+        "high": 18,
+        "low": 14,
+        "condition": "Showers"
+      },
+      {
+        "day": "Thu",
+        "high": 17,
+        "low": 13,
+        "condition": "Cloudy"
+      }
+    ]
+  }
+]
